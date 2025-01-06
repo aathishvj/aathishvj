@@ -28,5 +28,8 @@ Here are some ideas to get you started:
 - [ ] Write documentation
 - [ ] Deploy app
       ~~This text is struck through~~
+```python
+def greet():
+    print("Hello, World!")
 
 
