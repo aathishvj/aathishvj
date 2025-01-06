@@ -30,7 +30,8 @@ Here are some ideas to get you started:
       ~~This text is struck through~~
 ```python
 def greet():
-    print("Hello, World!") <br>
+    print("Hello, World!")
+---
 \# This is a literal hash symbol
 \*This text is not italicized\*
   
