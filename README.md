@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 |Aathish|Vijay|
 |Aathish|Vijay|
 > "hello"
-- [x] Set up development environment
+- [ ] Set up development environment
 - [ ] Write documentation
 - [ ] Deploy app
 
