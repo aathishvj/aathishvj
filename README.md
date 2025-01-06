@@ -27,4 +27,6 @@ Here are some ideas to get you started:
 - [ ] Set up development environment
 - [ ] Write documentation
 - [ ] Deploy app
+      ~~This text is struck through~~
+
 
